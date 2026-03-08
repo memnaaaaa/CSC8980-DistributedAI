@@ -5,7 +5,7 @@ This repository contains homework solutions and implementations for the Distribu
 ## Contents
 
 - `homework1/`: Gradient Descent and Linear Regression implementations.
-- `homework2/`: 
+- `homework2/`: Federated Learning implementations, including client and server code, various communication strategies, and robust aggregation rules.
 
 ## License
 
